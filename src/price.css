@@ -1,0 +1,46 @@
+.price {
+    
+    /* background-color: peru; */
+    display: flexbox;
+    flex: 1;
+    height: auto;
+}
+
+.button__buat {
+
+    /* position: absolute; */
+    /* top:50%; */
+    right: 0;
+    width: 120px;
+    /* transform: translateY(-50%); */
+    left: -190px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.packet{
+
+    display: flex;
+  justify-content: center;
+  align-items: center;
+ margin-bottom: 5px;
+}
+
+.price{
+
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.desc{
+
+    display: flexbox;
+  justify-content: center;
+  align-items: center;
+}
+.title{
+
+    background-color: blue;
+}
+
+
+

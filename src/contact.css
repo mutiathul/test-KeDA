@@ -1,0 +1,30 @@
+.contact {
+    
+  
+    display: flexbox;
+    flex: 1;
+    height: auto;
+}
+.contact__h2title {
+    color: rgba(137, 43, 226, 0.791);
+    margin-top: 100px;
+    
+}
+h2 {
+
+    letter-spacing: 1px;
+    padding: 5px;
+    margin:0;
+    text-align: left;
+    margin-left: 50px;
+}
+.form {
+
+    text-align: left;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+
+
+

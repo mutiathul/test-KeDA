@@ -1,0 +1,50 @@
+.about {
+    
+    display: flexbox;
+    flex: 1;
+    height: auto;
+}
+.about__h2title {
+    color: rgba(137, 43, 226, 0.791);
+    margin-top: 100px;
+    
+}
+
+h2 {
+    letter-spacing: 1px;
+    padding: 5px;
+    margin:0;
+    text-align: left;
+    margin-left: 50px;
+}
+
+.button__buat {
+    right: 0;
+    width: 120px;
+    left: -190px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.packet{
+
+    display: flex;
+  justify-content: center;
+  align-items: center;
+ margin-bottom: 5px;
+}
+
+.price{
+
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.desc{
+
+    display: flexbox;
+  justify-content: center;
+  align-items: center;
+}
+
+
+

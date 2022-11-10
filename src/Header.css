@@ -1,0 +1,56 @@
+.header {
+    height: 60px;
+    /* background-color: aliceblue; */
+    display: flex;
+    align-items: center;
+    position: sticky;
+    /* top: 0; */
+    /* z-index: 100; */
+  }
+  .header__logo {
+    display: flex;
+    align-items: center;
+    margin: 0 25px;
+  }
+  .header__icon{
+    align-items: flex-start;
+    margin-right: 10px;
+    /* margin-left: -130px; */
+    color: blueviolet;
+    margin-top: -5px;
+  }
+  .header__text {
+    align-items: center;
+    color: blueviolet;
+    /* margin-left: -130px; */
+  }
+  
+  .header__nav {
+    display: flex;
+    margin: 0 50px;
+    
+  }
+  .header__kosong {
+    display: flex;
+    flex: 1;
+  }
+  .nav__login {
+    margin-right: 10px;
+  
+  }
+  .nav__about {
+  
+    margin-right: 10px;
+    margin-top: 5px;
+    color: black;
+  }
+  .nav__price {
+    margin-right: 10px;
+    margin-top: 5px;
+    color: black;
+  }
+  .nav__contact {
+    margin-right: 10px;
+    margin-top: 5px;
+    color: black;
+  }
